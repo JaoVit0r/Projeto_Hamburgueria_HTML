@@ -1,0 +1,47 @@
+#cadastro {
+    margin: 20px 15%;
+    background-color: lightgray;
+    padding: 20px;
+    border: 1px solid black;
+}
+#cadastro h2 {
+    text-align: center;
+}
+.img-dark-filter{
+    filter: brightness(50%)
+}
+.novidades{
+    text-align: center;
+}
+.novidades img{
+    width: 100%;
+    border-radius: 25px;
+    border: 1px solid black;
+    /*box-shadow: 2px 2px;*/
+}
+
+.btn-cardapio-home{
+    font-size: 18px;
+}
+
+.sobre {
+    margin: .5cm;
+    padding: .3cm;
+    border: 2pt solid rgb(7, 7, 7);
+    background-color: rgb(255,193,7);
+    border-radius: 15px;
+    width: 25rem;
+}
+
+
+.img-sobre{
+    border-radius: 25px;
+    border: 1px solid black;
+    width: 100%;
+}
+
+@media screen and (max-width:50rem) {
+    .img-sobre{
+        display: none;
+    }
+}
