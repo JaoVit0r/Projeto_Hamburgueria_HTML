@@ -1,12 +1,16 @@
 # Projeto_Hamburgueria_HTML
 
-### Tal projeto se refere à uma atividade em grupo do módulo de Lógica de Programação Javascript do curso "Vem Ser Tech" da Let's Code, em parceria com a Ifood
+Projeto se refere ao módulo de HTML/CSS do programa Vem Ser Tech, realizado em um grupo de 5 pessoas: Eu (João Vitor Nunes), Rodrigo Mendes (https://github.com/rodrigomendes47), Weatherlly Moura (https://github.com/Weatherlly), Nicolas Araújo (https://github.com/Nickolaz47) e Danniel Dias (https://github.com/ddiasguto)
+
 Projeto feito em HTML, CSS e Javascript
 
-### Projeto dividido em partes, sendo cada integrante (5) responsável por uma ou mais partes, sendo:
+## Instruções
 
-* Parte 1, feita por <pessoa> (link do git)
-* Parte 2, feita por <pessoa> (link do git)
-* Parte 3, feita por <pessoa> (link do git)
-* Parte 4, feita por <pessoa> (link do git)
-* Parte 5, feita por <pessoa> (link do git)
+PRINCIPAL (700XP)
+- Catálogo igual ao do trabalho principal 01, porém responsivo;
+- Fazer um formulário de registro para o catálogo digital que criaram (se quiserem deixar funcionando tudo bem, mas não precisa);
+- Navegação precisa funcionar (da página principal para outras páginas, e na página principal em si);
+- O site deve estar otimizado para SEO e acessibilidade;
+
+EXTRA (300XP, sim, O LUÍS FICOU MALUCO)
+- Site inteiro feito com bootstrap.
